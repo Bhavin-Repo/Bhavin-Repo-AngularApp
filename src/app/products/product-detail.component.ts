@@ -9,7 +9,7 @@ import { Router } from '@angular/router';
 })
 export class ProductDetailComponent implements OnInit {
 
-  pageTitle : string = 'Product Detail';
+  pageTitle : string = 'Product Detailrrr';
   product : iproduct;
   constructor(private route : ActivatedRoute,
     private router : Router) { }
