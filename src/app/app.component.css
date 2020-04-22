@@ -1,0 +1,10 @@
+.nav-link {
+  font-size: xx-large;
+  font-family: cursive;
+  color: darkcyan;
+  text-align: center;
+  font-weight: bold;
+}
+.navbar-light .navbar-brand {
+  color:darkslategray;
+}
